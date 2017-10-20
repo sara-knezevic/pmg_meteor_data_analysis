@@ -1,0 +1,9 @@
+dakle, meteori su kodovani rednim brojem (kolona B), a pod meteorom se smatra presek vremena i pripadnosti poligonu (kolona c). svakom opayhanju umesto skraccenice dodat je kod posmatracha po IMO fazonu (kolona H), mada je, radi kontrole zadrzhana i kolona A. izmenjene su radne oznake za rojeve u IMO kodove (kolona E).
+
+na osnovu OVOGA videti, odnosno formirati tabelu koja sadrzhi
+1. srednje ocene magnitude za svaki meteor, medijan, min, max, broj vidjenja, broj ljudi koji su ga videli
+2. procene pripadnosti, tipa a*per, b*roj1, c*roja 2, ..., n*spo, gde su a+b+c+...+n=1. isto kroz tabelu, mozhe istu. 
+
+potom
+meteori se mogu rekodirati i samo prema vremenu, pri chemu se istovremeno sagledavaju svi poligoni. za tu svrhu formirati novu varijablu za kodove (zadrzhati i staru) 
+prema njoj uraditi isto.

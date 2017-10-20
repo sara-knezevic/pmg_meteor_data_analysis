@@ -1,0 +1,3675 @@
+
+2017-11-08 19:44:01
+
+Zapad: 
+SaraNik -> ['p', 3]
+SaraKne -> ['p', 2]
+
+2017-11-08 19:47:08
+
+Zapad: 
+SaraKne -> ['s', 0]
+AnaNik -> ['p', 0]
+
+Sever: 
+LjubomirBra -> ['sda', 1]
+DianaSek -> ['sda', 2]
+CaslavLuk -> ['s', 1]
+NikolaPer(Nina) -> ['s', 3]
+AndrijanaMik -> ['s', 1]
+
+
+2017-11-08 19:54:33
+
+Zapad: 
+SaraKne -> ['kcg', 2]
+VladimirNik -> ['s', 2]
+BranislavSav -> ['kcg', 2.5]
+CirNi -> ['p', 0]
+MilicaRak -> ['kap', 2]
+MarinaArn -> ['kcg', 0]
+
+Sever: 
+AndrijanaMik -> ['p', 3]
+
+
+2017-11-08 19:55:12
+
+Zapad: 
+BranislavSav -> ['s', 4]
+
+2017-11-08 19:57:05
+
+Zapad: 
+SaraKne -> ['s', 3]
+
+2017-11-08 19:57:09
+
+Zapad: 
+SaraNik -> ['p', 0]
+SaraKne -> ['p', -1]
+VladimirNik -> ['p', 0]
+BranislavSav -> ['p', 2.5]
+AnaNik -> ['p', 0]
+CirNi -> ['p', 1]
+MilicaRak -> ['p', 0]
+MarinaArn -> ['p', -1]
+
+Istok: 
+AleksandraMij -> ['p', 0]
+IvaTok -> ['p', -2]
+MarijaKov -> ['p', 1]
+SaraNik -> ['s', 0]
+
+
+2017-11-08 19:59:53
+
+Zapad: 
+SaraNik -> ['p', 2]
+SaraKne -> ['p', 1]
+MarinaArn -> ['p', 3]
+
+Istok: 
+IvaTok -> ['s', 1]
+MarijaKov -> ['s', 2]
+SaraNik -> ['s', 1]
+
+
+2017-11-08 20:00:24
+
+Zapad: 
+SaraKne -> ['p', 3]
+
+2017-11-08 20:01:12
+
+Zapad: 
+AnaNik -> ['s', 3]
+MilicaRak -> ['p', 1]
+
+2017-11-08 20:01:18
+
+Zapad: 
+VladimirNik -> ['s', 1]
+BranislavSav -> ['p', 2.5]
+CirNi -> ['s', 1]
+
+Istok: 
+IvaTok -> ['s', 0]
+SaraNik -> ['s', 1]
+
+
+2017-11-08 20:05:30
+
+Zapad: 
+MilicaRak -> ['kap', 2]
+MarinaArn -> ['s', 4]
+
+2017-11-08 20:07:08
+
+Zapad: 
+SaraNik -> ['p', 3]
+MilicaRak -> ['p', 1]
+
+2017-11-08 20:08:14
+
+Zapad: 
+SaraNik -> ['p', 0]
+VladimirNik -> ['s', 1]
+AnaNik -> ['p', -1]
+CirNi -> ['p', 0]
+MarinaArn -> ['p', -2]
+
+Istok: 
+AleksandraMij -> ['s', 0]
+IvaTok -> ['s', -1]
+MarijaKov -> ['s', -1]
+DusankaKov -> ['p', 0]
+SaraNik -> ['p', -1]
+DarioPiu -> ['s', 0]
+
+
+2017-11-08 20:09:32
+
+Zapad: 
+SaraNik -> ['p', 2]
+SaraKne -> ['p', 0]
+VladimirNik -> ['p', 1]
+BranislavSav -> ['p', 0.5]
+MilicaRak -> ['p', 2]
+MarinaArn -> ['p', 0]
+
+Istok: 
+AleksandraMij -> ['p', 1]
+IvaTok -> ['s', -1]
+MarijaKov -> ['p', 1]
+SaraNik -> ['p', 1]
+DarioPiu -> ['p', 1]
+
+
+2017-11-08 20:16:44
+
+Zapad: 
+CirNi -> ['p', 1]
+MilicaRak -> ['p', 1]
+
+2017-11-08 20:17:14
+
+Zapad: 
+SaraNik -> ['p', 3]
+SaraKne -> ['p', 3]
+VladimirNik -> ['s', 2]
+BranislavSav -> ['p', 3.5]
+MarinaArn -> ['p', 3]
+
+2017-11-08 20:17:20
+
+Zapad: 
+SaraKne -> ['s', 3]
+AnaNik -> ['kcg', 4]
+CirNi -> ['s', 2]
+MilicaRak -> ['kap', 3]
+
+Istok: 
+AnaMarijaCer -> ['s', 1]
+IvaTok -> ['s', 0]
+DusankaKov -> ['s', 3]
+DarioPiu -> ['s', 2]
+
+
+2017-11-08 20:20:06
+
+Zapad: 
+BranislavSav -> ['p', 3.5]
+
+2017-11-08 20:22:27
+
+Zapad: 
+SaraNik -> ['p', 2]
+SaraKne -> ['p', 2]
+VladimirNik -> ['p', 2]
+CirNi -> ['p', 1]
+MarinaArn -> ['p', 3]
+
+Istok: 
+AnaMarijaCer -> ['p', -1]
+MarijaKov -> ['p', 3]
+SaraNik -> ['p', 1]
+DarioPiu -> ['s', 2]
+
+
+Istok: 
+IvaTok -> ['p', 1]
+MarijaKov -> ['s', 2]
+
+
+2017-11-08 20:23:11
+
+Zapad: 
+SaraNik -> ['p', 0]
+SaraKne -> ['p', -2]
+VladimirNik -> ['p', -1]
+BranislavSav -> ['p', -1]
+AnaNik -> ['p', -1]
+CirNi -> ['p', -1]
+MilicaRak -> ['p', -1]
+MarinaArn -> ['p', -3]
+
+Istok: 
+AleksandraMij -> ['p', -1]
+IvaTok -> ['p', -2]
+MarijaKov -> ['p', 0]
+DusankaKov -> ['p', 0]
+SaraNik -> ['p', -2]
+DarioPiu -> ['s', -2]
+
+
+2017-11-08 20:24:04
+
+Zapad: 
+SaraNik -> ['p', 3]
+SaraKne -> ['s', 2]
+
+2017-11-08 20:24:55
+
+Zapad: 
+SaraNik -> ['p', 3]
+CirNi -> ['p', 1]
+MarinaArn -> ['p', 4]
+
+Istok: 
+AleksandraMij -> ['s', 2]
+MarijaKov -> ['p', 3]
+DarioPiu -> ['s', 3]
+
+
+2017-11-08 20:26:46
+
+Zapad: 
+SaraNik -> ['p', 0]
+SaraKne -> ['p', -3]
+VladimirNik -> ['p', 0]
+BranislavSav -> ['p', 0.5]
+AnaNik -> ['p', -2]
+CirNi -> ['p', 2]
+MilicaRak -> ['p', -1]
+MarinaArn -> ['p', -3]
+
+Istok: 
+AleksandraMij -> ['s', -1]
+IvaTok -> ['s', -2]
+MarijaKov -> ['s', -2]
+
+
+2017-11-08 20:31:48
+
+Zapad: 
+VladimirNik -> ['s', 0]
+AnaNik -> ['kcg', 1]
+CirNi -> ['kap', 1]
+MilicaRak -> ['kap', 3]
+
+2017-11-08 20:35:40
+
+Zapad: 
+SaraNik -> ['p', 2]
+VladimirNik -> ['p', 2]
+BranislavSav -> ['p', 3]
+CirNi -> ['p', 2]
+MilicaRak -> ['p', 3]
+MarinaArn -> ['p', 2]
+
+2017-11-08 20:36:52
+
+Zapad: 
+BranislavSav -> ['s', 4]
+
+2017-11-08 20:39:55
+
+Zapad: 
+SaraKne -> ['p', 3]
+VladimirNik -> ['p', 1]
+AnaNik -> ['p', 4]
+CirNi -> ['p', 1]
+MarinaArn -> ['p', 1]
+
+Istok: 
+AleksandraMij -> ['p', 0]
+IvaTok -> ['s', 3]
+MarijaKov -> ['p', 3]
+DusankaKov -> ['p', 2]
+SaraNik -> ['s', 1]
+
+
+2017-11-08 20:41:15
+
+Zapad: 
+BranislavSav -> ['p', 2]
+
+2017-11-08 20:41:52
+
+Zapad: 
+SaraNik -> ['p', -1]
+SaraKne -> ['p', -3]
+VladimirNik -> ['p', 0]
+BranislavSav -> ['p', -1]
+AnaNik -> ['p', -2]
+CirNi -> ['p', 2]
+MilicaRak -> ['p', -1]
+MarinaArn -> ['p', -1]
+
+Istok: 
+AleksandraMij -> ['p', -1]
+AnaMarijaCer -> ['p', -1]
+IvaTok -> ['p', -1]
+MarijaKov -> ['p', -2]
+DusankaKov -> ['p', 0]
+
+
+2017-11-08 20:42:28
+
+Zapad: 
+SaraKne -> ['p', -1]
+VladimirNik -> ['p', 0]
+BranislavSav -> ['p', 0.5]
+AnaNik -> ['p', 1]
+CirNi -> ['p', 1]
+MilicaRak -> ['p', 0]
+MarinaArn -> ['p', 0]
+
+Sever: 
+LjubomirBra -> ['p', -2]
+DianaSek -> ['p', -2]
+CaslavLuk -> ['p', -1]
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['p', 0]
+
+
+Istok: 
+AleksandraMij -> ['s', -1]
+AnaMarijaCer -> ['s', 0]
+IvaTok -> ['s', 1]
+MarijaKov -> ['s', 2]
+
+
+2017-11-08 20:43:46
+
+Zapad: 
+SaraKne -> ['p', 2]
+VladimirNik -> ['s', 0]
+AnaNik -> ['sda', 1]
+
+2017-11-08 20:43:53
+
+Zapad: 
+SaraNik -> ['s', 3]
+BranislavSav -> ['s', 3]
+MarinaArn -> ['ant', 0]
+
+2017-11-08 20:44:23
+
+Zapad: 
+SaraNik -> ['ant', 0]
+SaraKne -> ['ant', -2]
+VladimirNik -> ['s', 1]
+BranislavSav -> ['ant', 1]
+AnaNik -> ['ant', 0]
+CirNi -> ['s', -2]
+MilicaRak -> ['ant', 0]
+
+Istok: 
+AleksandraMij -> ['s', 1]
+AnaMarijaCer -> ['s', -1]
+IvaTok -> ['s', 0]
+MarijaKov -> ['kcg', -2]
+DusankaKov -> ['sda', 0]
+
+
+2017-11-08 20:45:00
+
+Zapad: 
+MilicaRak -> ['p', 2]
+
+Sever: 
+LjubomirBra -> ['s', 0]
+DianaSek -> ['ant', 1]
+CaslavLuk -> ['s', -1]
+NikolaPer(Nina) -> ['s', 1]
+AndrijanaMik -> ['s', 1]
+
+
+2017-11-08 20:49:31
+
+Zapad: 
+SaraNik -> ['p', 3]
+CirNi -> ['p', 2]
+MarinaArn -> ['p', 3]
+
+Istok: 
+AleksandraMij -> ['p', 1]
+IvaTok -> ['p', 2]
+MarijaKov -> ['s', 2]
+DusankaKov -> ['kcg', 3]
+SaraNik -> ['p', 2]
+
+
+2017-11-08 20:53:20
+
+Zapad: 
+BranislavSav -> ['p', 1]
+CirNi -> ['s', 2]
+MarinaArn -> ['p', 2]
+
+2017-11-08 20:55:40
+
+Zapad: 
+VladimirNik -> ['p', 1]
+MilicaRak -> ['s', 3]
+
+2017-11-08 20:57:06
+
+Zapad: 
+SaraNik -> ['kap', 1]
+VladimirNik -> ['s', 1]
+BranislavSav -> ['kap', 2]
+AnaNik -> ['kap', 1]
+CirNi -> ['kap', 0]
+
+Istok: 
+AleksandraMij -> ['s', 1]
+IvaTok -> ['sda', 1]
+MarijaKov -> ['s', 0]
+SaraNik -> ['s', 2]
+
+
+2017-11-08 20:57:27
+
+Zapad: 
+BranislavSav -> ['p', 3]
+
+2017-11-08 20:58:19
+
+Zapad: 
+BranislavSav -> ['s', 4]
+
+2017-11-08 20:58:57
+
+Zapad: 
+SaraKne -> ['s', 3]
+
+2017-11-08 21:04:14
+
+Zapad: 
+SaraNik -> ['p', 2]
+SaraKne -> ['p', 2]
+VladimirNik -> ['p', 1]
+CirNi -> ['p', 2]
+MilicaRak -> ['p', 1]
+
+2017-11-08 21:06:28
+
+Zapad: 
+SaraKne -> ['s', 2]
+
+2017-11-08 21:06:40
+
+Zapad: 
+SaraNik -> ['p', 2.5]
+SaraKne -> ['p', 0]
+VladimirNik -> ['p', 2]
+CirNi -> ['p', 2]
+
+2017-11-08 21:18:44
+
+Zapad: 
+SaraKne -> ['p', 3]
+VladimirNik -> ['p', 2]
+CirNi -> ['p', 1.5]
+
+2017-11-08 21:22:56
+
+Zapad: 
+SaraNik -> ['p', -2]
+SaraKne -> ['p', -3]
+VladimirNik -> ['p', 2]
+AnaNik -> ['p', -2]
+MilicaRak -> ['p', -2]
+
+2017-11-08 21:24:03
+
+Zapad: 
+SaraKne -> ['kcg', 2]
+MilicaRak -> ['p', 3]
+
+2017-11-08 21:31:56
+
+Zapad: 
+SaraKne -> ['p', 3]
+
+2017-11-08 21:39:29
+
+Zapad: 
+SaraKne -> ['p', 0]
+AnaNik -> ['p', 1]
+
+2017-11-08 21:40:09
+
+Zapad: 
+MilicaRak -> ['s', 2]
+
+Sever: 
+CaslavLuk -> ['p', 1]
+IvaTok -> ['p', 1]
+
+
+2017-11-08 21:41:45
+
+Zapad: 
+SaraKne -> ['s', 1]
+VladimirNik -> ['s', 1]
+AnaNik -> ['p', 3]
+
+2017-11-08 21:47:50
+
+Zapad: 
+SaraKne -> ['p', -3]
+VladimirNik -> ['p', -1]
+AnaNik -> ['sda', 0]
+MilicaRak -> ['p', 0]
+
+2017-11-08 21:49:43
+
+Zapad: 
+SaraKne -> ['p', -2]
+VladimirNik -> ['p', -1]
+AnaNik -> ['p', 0]
+MilicaRak -> ['p', 0]
+
+2017-11-08 21:50:42
+
+Zapad: 
+SaraKne -> ['kap', 2]
+MilicaRak -> ['s', 3]
+
+2017-11-08 21:55:28
+
+Zapad: 
+SaraKne -> ['s', 1]
+VladimirNik -> ['s', 1]
+
+2017-11-08 21:57:55
+
+Zapad: 
+SaraKne -> ['p', -1]
+VladimirNik -> ['p', 0]
+AnaNik -> ['p', 0]
+MilicaRak -> ['p', 2]
+
+2017-11-08 21:58:32
+
+Zapad: 
+VladimirNik -> ['s', 2]
+
+Sever: 
+CaslavLuk -> ['p', -1]
+NikolaPer(Nina) -> ['p', 2]
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['s', 0]
+DarioPiu -> ['s', 1]
+IvaTok -> ['s', 0]
+
+
+2017-11-08 21:59:47
+
+Zapad: 
+AnaNik -> ['s', 1]
+
+2017-11-08 21:59:57
+
+Zapad: 
+AnaNik -> ['s', 5]
+
+2017-11-08 22:02:18
+
+Zapad: 
+SaraKne -> ['p', -2]
+MilicaRak -> ['p', 0]
+
+2017-11-08 22:05:05
+
+Zapad: 
+SaraKne -> ['p', -1]
+AnaNik -> ['p', 0]
+MilicaRak -> ['p', 1]
+
+2017-11-08 22:06:05
+
+Zapad: 
+SaraKne -> ['p', 1]
+
+2017-11-08 22:07:30
+
+Zapad: 
+SaraKne -> ['p', 3]
+AnaNik -> ['p', 2]
+
+2017-11-08 22:12:21
+
+Zapad: 
+AleksaTes -> ['p', 2]
+MilicaRak -> ['s', 3]
+
+2017-11-08 22:12:54
+
+Zapad: 
+AleksaTes -> ['p', -1]
+SaraKne -> ['p', -2]
+CirNi -> ['p', -2]
+MilicaRak -> ['p', 0]
+
+Sever: 
+CaslavLuk -> ['s', 4]
+
+
+2017-11-08 22:13:46
+
+Zapad: 
+AleksaTes -> ['s', 0]
+
+2017-11-08 22:14:35
+
+Zapad: 
+AleksaTes -> ['p', 0]
+SaraKne -> ['p', 0]
+MilicaRak -> ['p', 0]
+
+2017-11-08 22:14:39
+
+Zapad: 
+SaraKne -> ['p', 1]
+
+2017-11-08 22:15:05
+
+Zapad: 
+AleksaTes -> ['p', 1]
+AnaNik -> ['s', 4]
+CirNi -> ['p', 1]
+MilicaRak -> ['p', 2]
+
+2017-11-08 22:15:07
+
+Zapad: 
+AleksaTes -> ['kcg', 1]
+SaraKne -> ['s', 0]
+AnaNik -> ['kcg', 1]
+CirNi -> ['kap', 0]
+
+Sever: 
+DianaSek -> ['p', 1]
+NikolaPer(Nina) -> ['s', 1]
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['s', 1]
+IvaTok -> ['p', 1]
+
+
+2017-11-08 22:16:37
+
+Zapad: 
+SaraKne -> ['p', 4]
+
+2017-11-08 22:20:28
+
+Zapad: 
+SaraKne -> ['p', 0]
+BranislavSav -> ['p', 3]
+AnaNik -> ['p', 1]
+CirNi -> ['p', 2]
+
+2017-11-08 22:24:30
+
+Zapad: 
+AleksaTes -> ['p', 1]
+SaraKne -> ['p', 1]
+BranislavSav -> ['p', 1.5]
+AnaNik -> ['p', 0]
+
+2017-11-08 22:25:56
+
+Zapad: 
+AleksaTes -> ['p', -2]
+BranislavSav -> ['p', 2]
+CirNi -> ['p', 0]
+MinaSto -> ['p', 1]
+
+2017-11-08 22:28:27
+
+Zapad: 
+MinaSto -> ['p', 0]
+
+2017-11-08 22:29:03
+
+Zapad: 
+AleksaTes -> ['p', 0]
+BranislavSav -> ['p', 0]
+AnaNik -> ['p', -1]
+MinaSto -> ['p', 0]
+
+Sever: 
+AndrijanaMik -> ['s', 1]
+
+
+2017-11-08 22:29:05
+
+Zapad: 
+AleksaTes -> ['p', 1]
+SaraKne -> ['p', -1]
+
+Sever: 
+AndrijanaMik -> ['s', 1]
+
+
+2017-11-08 22:29:10
+
+Zapad: 
+AleksaTes -> ['s', 3]
+
+2017-11-08 22:29:52
+
+Zapad: 
+BranislavSav -> ['p', 3.5]
+
+2017-11-08 22:32:16
+
+Zapad: 
+AleksaTes -> ['s', 0]
+BranislavSav -> ['s', 1.5]
+AnaNik -> ['s', 1]
+CirNi -> ['p', 1]
+MinaSto -> ['s', 0]
+
+2017-11-08 22:32:34
+
+Zapad: 
+AleksaTes -> ['s', 3]
+
+2017-11-08 22:34:06
+
+Zapad: 
+SaraKne -> ['p', 2]
+BranislavSav -> ['p', 3]
+
+2017-11-08 22:34:11
+
+Zapad: 
+MinaSto -> ['s', 3]
+
+2017-11-08 22:35:36
+
+Zapad: 
+MinaSto -> ['s', 2]
+
+2017-11-08 22:35:50
+
+Zapad: 
+BranislavSav -> ['sda', 2]
+
+2017-11-08 22:37:16
+
+Zapad: 
+SaraKne -> ['s', 3]
+
+2017-11-08 22:38:16
+
+Zapad: 
+SaraKne -> ['p', 2]
+BranislavSav -> ['p', 3.5]
+MinaSto -> ['s', 3]
+
+2017-11-08 22:41:18
+
+Zapad: 
+AleksaTes -> ['s', 0]
+SaraKne -> ['s', -2]
+CirNi -> ['s', 1]
+MinaSto -> ['s', 0]
+
+2017-11-08 22:41:37
+
+Zapad: 
+BranislavSav -> ['p', 2.5]
+AnaNik -> ['p', 1]
+
+2017-11-08 22:42:27
+
+Zapad: 
+MinaSto -> ['p', 2]
+
+2017-11-08 22:44:06
+
+Zapad: 
+MinaSto -> ['p', 3]
+
+2017-11-08 22:44:48
+
+Zapad: 
+SaraKne -> ['s', 3]
+BranislavSav -> ['p', 3]
+
+2017-11-08 22:44:59
+
+Zapad: 
+AleksaTes -> ['p', 1]
+BranislavSav -> ['p', 1]
+CirNi -> ['p', 1]
+MinaSto -> ['p', 1]
+
+2017-11-08 22:46:23
+
+Zapad: 
+AleksaTes -> ['p', 1]
+SaraKne -> ['p', -2]
+VladimirNik -> ['p', 0]
+BranislavSav -> ['p', 0]
+AnaNik -> ['p', -1]
+MinaSto -> ['p', 1]
+
+2017-11-08 22:46:32
+
+Zapad: 
+SaraKne -> ['p', 0]
+BranislavSav -> ['p', 4]
+
+2017-11-08 22:46:59
+
+Zapad: 
+AleksaTes -> ['p', 1]
+VladimirNik -> ['s', 1]
+
+Sever: 
+AndrijanaMik -> ['s', 3]
+
+
+2017-11-08 22:47:18
+
+Zapad: 
+MinaSto -> ['s', 3]
+
+2017-11-08 22:48:16
+
+Zapad: 
+MinaSto -> ['p', 4]
+
+2017-11-08 22:48:41
+
+Zapad: 
+AleksaTes -> ['p', 2]
+SaraKne -> ['p', 2]
+MinaSto -> ['p', 2]
+
+2017-11-08 22:48:53
+
+Zapad: 
+MinaSto -> ['s', 4]
+
+2017-11-08 22:48:56
+
+Zapad: 
+SaraKne -> ['p', 3]
+
+2017-11-08 22:49:15
+
+Zapad: 
+AleksaTes -> ['p', 2]
+BranislavSav -> ['p', 3]
+MinaSto -> ['p', 2]
+
+2017-11-08 22:50:04
+
+Zapad: 
+BranislavSav -> ['p', 3]
+
+2017-11-08 22:50:36
+
+Zapad: 
+VladimirNik -> ['p', 3]
+
+2017-11-08 22:50:52
+
+Zapad: 
+MinaSto -> ['s', 3]
+
+2017-11-08 22:51:18
+
+Zapad: 
+VladimirNik -> ['p', 1]
+BranislavSav -> ['p', 1.5]
+
+2017-11-08 22:51:55
+
+Zapad: 
+SaraKne -> ['p', -2]
+VladimirNik -> ['p', -1]
+BranislavSav -> ['p', -2]
+MinaSto -> ['s', -1]
+MilicaRak -> ['p', -1]
+
+Sever: 
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['p', 0]
+DarioPiu -> ['p', 0]
+IvaTok -> ['p', -1]
+
+
+2017-11-08 22:52:12
+
+Zapad: 
+BranislavSav -> ['p', 2]
+CirNi -> ['p', 0]
+
+2017-11-08 22:52:17
+
+Zapad: 
+BranislavSav -> ['p', -1]
+
+2017-11-08 22:53:12
+
+Zapad: 
+BranislavSav -> ['p', 1]
+MilicaRak -> ['s', 2]
+
+2017-11-08 22:53:43
+
+Zapad: 
+BranislavSav -> ['p', 3.5]
+
+2017-11-08 22:53:55
+
+Zapad: 
+BranislavSav -> ['p', 3.5]
+
+2017-11-08 22:54:13
+
+Zapad: 
+MinaSto -> ['p', 2]
+
+2017-11-08 22:54:22
+
+Zapad: 
+AleksaTes -> ['p', 3]
+BranislavSav -> ['p', 3]
+MinaSto -> ['p', 3]
+
+2017-11-08 22:54:59
+
+Zapad: 
+SaraKne -> ['kap', -2]
+BranislavSav -> ['p', 0]
+CirNi -> ['p', -1]
+MinaSto -> ['p', 2]
+MilicaRak -> ['p', -1]
+
+2017-11-08 22:55:28
+
+Zapad: 
+BranislavSav -> ['s', 3]
+
+2017-11-08 22:56:09
+
+Zapad: 
+SaraKne -> ['p', 2]
+MinaSto -> ['s', 4]
+
+2017-11-08 22:56:21
+
+Zapad: 
+SaraKne -> ['s', 3]
+VladimirNik -> ['p', 1]
+MilicaRak -> ['s', 4]
+
+2017-11-08 22:56:27
+
+Zapad: 
+MinaSto -> ['p', 4]
+
+2017-11-08 22:57:03
+
+Zapad: 
+AleksaTes -> ['p', 2]
+SaraKne -> ['p', 3]
+VladimirNik -> ['p', 3]
+CirNi -> ['p', 2]
+MilicaRak -> ['p', 2]
+
+2017-11-08 22:58:27
+
+Zapad: 
+BranislavSav -> ['p', -1]
+CirNi -> ['p', 2]
+MinaSto -> ['p', -1]
+
+2017-11-08 22:58:52
+
+Zapad: 
+VladimirNik -> ['s', 4]
+BranislavSav -> ['s', 3]
+
+2017-11-08 22:59:28
+
+Zapad: 
+MinaSto -> ['p', 4]
+
+2017-11-08 23:00:09
+
+Zapad: 
+VladimirNik -> ['p', 2]
+BranislavSav -> ['p', 2.5]
+
+2017-11-08 23:01:24
+
+Zapad: 
+SaraKne -> ['ant', 3]
+MinaSto -> ['s', 3]
+
+2017-11-08 23:01:38
+
+Zapad: 
+AleksaTes -> ['p', 3]
+SaraKne -> ['p', 4]
+MilicaRak -> ['p', 3]
+
+2017-11-08 23:02:31
+
+Zapad: 
+BranislavSav -> ['p', 2.5]
+
+2017-11-08 23:02:44
+
+Zapad: 
+AleksaTes -> ['p', 1]
+BranislavSav -> ['p', 4]
+
+2017-11-08 23:02:56
+
+Zapad: 
+SaraKne -> ['s', 2]
+BranislavSav -> ['p', 4]
+
+2017-11-08 23:03:00
+
+Zapad: 
+SaraKne -> ['ant', 4]
+MinaSto -> ['p', 3]
+
+2017-11-08 23:04:54
+
+Zapad: 
+AleksaTes -> ['s', 3]
+BranislavSav -> ['p', 0.5]
+MinaSto -> ['p', -1]
+
+2017-11-08 23:05:28
+
+Zapad: 
+BranislavSav -> ['p', 3]
+MinaSto -> ['p', 2]
+
+2017-11-08 23:05:33
+
+Zapad: 
+SaraKne -> ['p', 4]
+VladimirNik -> ['p', 3]
+MilicaRak -> ['p', 3]
+
+2017-11-08 23:07:24
+
+Zapad: 
+MinaSto -> ['p', 2]
+
+2017-11-08 23:08:15
+
+Zapad: 
+MilicaRak -> ['kap', 4]
+
+2017-11-08 23:09:54
+
+Zapad: 
+SaraKne -> ['p', 3]
+
+2017-11-08 23:10:08
+
+Zapad: 
+SaraKne -> ['p', -1]
+MinaSto -> ['s', 3]
+
+Sever: 
+LjubomirBra -> ['p', 2]
+DarioPiu -> ['s', -1]
+
+
+2017-11-08 23:10:19
+
+Zapad: 
+BranislavSav -> ['p', 3]
+
+2017-11-08 23:10:59
+
+Zapad: 
+MinaSto -> ['p', 2]
+
+2017-11-08 23:11:04
+
+Zapad: 
+MinaSto -> ['p', 3]
+
+2017-11-08 23:12:30
+
+Zapad: 
+VladimirNik -> ['s', 1]
+MinaSto -> ['p', 2]
+
+2017-11-08 23:14:27
+
+Zapad: 
+MilicaRak -> ['s', 3]
+
+2017-11-08 23:14:54
+
+Zapad: 
+MilicaRak -> ['p', 2]
+
+2017-11-08 23:17:16
+
+Zapad: 
+SaraKne -> ['p', -2]
+VladimirNik -> ['p', 0]
+BranislavSav -> ['p', 0.5]
+MinaSto -> ['p', -1]
+MilicaRak -> ['p', 0]
+
+2017-11-08 23:17:50
+
+Zapad: 
+SaraKne -> ['ant', 3]
+BranislavSav -> ['s', 3]
+
+Sever: 
+LjubomirBra -> ['p', 3]
+
+
+2017-11-08 23:18:53
+
+Zapad: 
+MinaSto -> ['s', 3]
+
+2017-11-08 23:22:12
+
+Zapad: 
+BranislavSav -> ['p', -1]
+MinaSto -> ['p', 1]
+MilicaRak -> ['s', 0]
+
+2017-11-08 23:22:23
+
+Zapad: 
+AleksaTes -> ['p', 1]
+VladimirNik -> ['p', 1]
+BranislavSav -> ['p', 2.5]
+MinaSto -> ['p', 0]
+MilicaRak -> ['s', 1]
+
+2017-11-08 23:24:40
+
+Zapad: 
+BranislavSav -> ['s', 3]
+
+2017-11-08 23:25:39
+
+Zapad: 
+VladimirNik -> ['s', 4]
+
+2017-11-08 23:27:32
+
+Zapad: 
+MinaSto -> ['s', 2]
+
+2017-11-08 23:31:26
+
+Zapad: 
+SaraKne -> ['p', -2]
+VladimirNik -> ['p', 0]
+MilicaRak -> ['p', 0]
+
+2017-11-08 23:32:43
+
+Zapad: 
+SaraKne -> ['kap', 2]
+VladimirNik -> ['s', 4]
+
+2017-11-08 23:34:40
+
+Zapad: 
+SaraKne -> ['s', 1]
+MilicaRak -> ['s', 1]
+
+2017-11-08 23:40:09
+
+Zapad: 
+SaraKne -> ['s', 2]
+MilicaRak -> ['s', 4]
+
+2017-11-08 23:40:29
+
+Zapad: 
+SaraKne -> ['p', 2]
+VladimirNik -> ['p', 0]
+
+2017-11-08 23:42:42
+
+Zapad: 
+SaraKne -> ['p', 1]
+MilicaRak -> ['p', 2]
+
+2017-11-08 23:45:06
+
+Zapad: 
+SaraKne -> ['p', 1]
+VladimirNik -> ['s', 4]
+
+2017-11-08 23:46:59
+
+Zapad: 
+MilicaRak -> ['p', 2]
+
+2017-11-08 23:50:20
+
+Zapad: 
+MilicaRak -> ['p', 3]
+
+2017-11-08 23:50:23
+
+Zapad: 
+VladimirNik -> ['p', 2]
+
+2017-11-08 23:53:34
+
+Zapad: 
+VladimirNik -> ['p', 0]
+MilicaRak -> ['p', -2]
+
+2017-11-08 23:54:49
+
+Zapad: 
+VladimirNik -> ['p', 1]
+
+2017-11-08 23:54:56
+
+Zapad: 
+MilicaRak -> ['s', 2]
+
+2017-12-08 00:11:06
+
+Zapad: 
+VladimirNik -> ['s', 1]
+MilicaRak -> ['p', 2]
+
+Sever: 
+AndrijanaMik -> ['s', 1]
+
+
+2017-12-08 00:11:14
+
+Zapad: 
+MilicaRak -> ['s', 2]
+
+2017-12-08 00:11:39
+
+Zapad: 
+MilicaRak -> ['p', 3]
+
+Sever: 
+CaslavLuk -> ['s', 4]
+
+
+2017-12-08 00:11:55
+
+Zapad: 
+MilicaRak -> ['p', -1]
+
+2017-12-08 00:15:10
+
+Zapad: 
+MilicaRak -> ['p', 2]
+
+Sever: 
+DianaSek -> ['ant', 0]
+CaslavLuk -> ['p', 0]
+
+
+2017-12-08 00:17:16
+
+Zapad: 
+MilicaRak -> ['p', 2]
+
+2017-12-08 00:18:11
+
+Zapad: 
+MilicaRak -> ['s', 2]
+
+2017-12-08 00:18:48
+
+Zapad: 
+MilicaRak -> ['p', 1]
+
+Sever: 
+LjubomirBra -> ['p', 3]
+DianaSek -> ['p', 2]
+AndrijanaMik -> ['p', 2]
+
+
+2017-12-08 00:21:14
+
+Zapad: 
+BranislavSav -> ['p', 3.5]
+
+2017-12-08 00:23:00
+
+Zapad: 
+MilicaRak -> ['s', 3]
+
+2017-12-08 00:23:37
+
+Zapad: 
+MilicaRak -> ['s', 4]
+
+2017-12-08 00:27:09
+
+Zapad: 
+BranislavSav -> ['p', 2]
+MilicaRak -> ['p', 2]
+
+2017-12-08 00:28:45
+
+Zapad: 
+BranislavSav -> ['ant', 3]
+MilicaRak -> ['s', 3]
+
+2017-12-08 00:31:21
+
+Zapad: 
+BranislavSav -> ['s', 2]
+MilicaRak -> ['p', 0]
+
+2017-12-08 00:32:26
+
+Zapad: 
+MilicaRak -> ['s', 4]
+
+2017-12-08 00:36:40
+
+Zapad: 
+BranislavSav -> ['p', -3]
+MilicaRak -> ['s', -2]
+DusankaKov -> ['s', -2]
+
+2017-12-08 00:37:16
+
+Zapad: 
+BranislavSav -> ['p', 1]
+MilicaRak -> ['p', -1]
+
+Sever: 
+LjubomirBra -> ['p', -2]
+DianaSek -> ['p', -2]
+CaslavLuk -> ['p', -2]
+AndrijanaMik -> ['p', -3]
+
+
+2017-12-08 00:38:22
+
+Zapad: 
+MilicaRak -> ['p', 2]
+
+2017-12-08 00:40:38
+
+Zapad: 
+BranislavSav -> ['s', 1.5]
+MilicaRak -> ['p', 0]
+
+2017-12-08 00:42:31
+
+Zapad: 
+DusankaKov -> ['kcg', 2]
+
+Sever: 
+LjubomirBra -> ['p', 3]
+
+
+Sever: 
+AndrijanaMik -> ['s', 3]
+
+
+2017-12-08 00:43:02
+
+Zapad: 
+BranislavSav -> ['s', 0]
+
+2017-12-08 00:43:07
+
+Zapad: 
+MilicaRak -> ['s', 2]
+
+2017-12-08 00:44:36
+
+Zapad: 
+BranislavSav -> ['sda', 2]
+DusankaKov -> ['s', 3]
+
+2017-12-08 00:48:49
+
+Zapad: 
+BranislavSav -> ['p', 2.5]
+MilicaRak -> ['s', 0]
+
+2017-12-08 00:49:20
+
+Zapad: 
+DusankaKov -> ['p', 4]
+
+2017-12-08 00:49:32
+
+Zapad: 
+BranislavSav -> ['p', 2.5]
+MilicaRak -> ['p', 1]
+DusankaKov -> ['s', 3]
+
+2017-12-08 00:52:05
+
+Zapad: 
+BranislavSav -> ['ant', 2.5]
+DusankaKov -> ['s', 1]
+
+2017-12-08 00:53:12
+
+Zapad: 
+DusankaKov -> ['p', 3]
+
+2017-12-08 00:58:20
+
+Zapad: 
+BranislavSav -> ['p', 3]
+DusankaKov -> ['p', 4]
+
+2017-12-08 01:00:45
+
+Zapad: 
+BranislavSav -> ['p', 2]
+
+2017-12-08 01:01:53
+
+Zapad: 
+BranislavSav -> ['p', 0]
+
+2017-12-08 01:03:39
+
+Zapad: 
+BranislavSav -> ['s', 0.5]
+MilicaRak -> ['p', 0]
+DusankaKov -> ['p', 1]
+
+2017-12-08 01:05:39
+
+Zapad: 
+BranislavSav -> ['p', 1]
+
+2017-12-08 01:06:07
+
+Zapad: 
+DusankaKov -> ['p', 2]
+
+2017-12-08 01:06:23
+
+Zapad: 
+MilicaRak -> ['p', 0]
+DusankaKov -> ['p', 2]
+
+2017-12-08 01:06:23
+
+Zapad: 
+BranislavSav -> ['p', -1]
+MilicaRak -> ['p', 0]
+DusankaKov -> ['p', 3]
+
+2017-12-08 01:07:00
+
+Zapad: 
+BranislavSav -> ['p', -1]
+DusankaKov -> ['p', 4]
+
+Sever: 
+DianaSek -> ['p', 2]
+CaslavLuk -> ['p', -1]
+AndrijanaMik -> ['p', -1]
+
+
+Sever: 
+DianaSek -> ['p', 1]
+CaslavLuk -> ['p', 1]
+AndrijanaMik -> ['p', 2]
+
+
+2017-12-08 01:07:41
+
+Zapad: 
+BranislavSav -> ['p', 0.5]
+MilicaRak -> ['p', 0]
+DusankaKov -> ['p', 1]
+
+2017-12-08 01:09:10
+
+Zapad: 
+MilicaRak -> ['p', 1]
+DusankaKov -> ['s', 1]
+
+2017-12-08 01:12:53
+
+Zapad: 
+BranislavSav -> ['s', 4]
+
+2017-12-08 01:14:44
+
+Zapad: 
+MilicaRak -> ['s', 4]
+DusankaKov -> ['p', 3]
+
+2017-12-08 01:17:47
+
+Zapad: 
+BranislavSav -> ['p', 2]
+
+2017-12-08 01:18:10
+
+Zapad: 
+BranislavSav -> ['p', -5]
+DusankaKov -> ['p', -4]
+
+2017-12-08 01:18:28
+
+Zapad: 
+BranislavSav -> ['p', 0.5]
+MilicaRak -> ['p', 1]
+DusankaKov -> ['p', 1]
+
+2017-12-08 01:19:20
+
+Zapad: 
+MilicaRak -> ['p', -1]
+DusankaKov -> ['p', 1]
+
+2017-12-08 01:20:56
+
+Zapad: 
+DusankaKov -> ['p', 2]
+
+2017-12-08 01:23:25
+
+Zapad: 
+MilicaRak -> ['p', 3]
+DusankaKov -> ['p', 2]
+
+2017-12-08 01:28:20
+
+Zapad: 
+DusankaKov -> ['p', 4]
+
+2017-12-08 01:30:00
+
+Zapad: 
+MilicaRak -> ['p', 2]
+
+2017-12-08 01:41:28
+
+Zapad: 
+MilicaRak -> ['p', 4]
+
+2017-12-08 01:43:57
+
+Zapad: 
+BranislavSav -> ['p', 1]
+MilicaRak -> ['p', 0]
+
+2017-12-08 01:44:13
+
+Zapad: 
+DusankaKov -> ['p', 3]
+
+2017-12-08 01:44:47
+
+Zapad: 
+BranislavSav -> ['p', -1]
+DusankaKov -> ['p', 0]
+
+2017-12-08 01:44:48
+
+Zapad: 
+BranislavSav -> ['p', 2]
+
+2017-12-08 01:45:10
+
+Zapad: 
+BranislavSav -> ['ant', -2]
+MilicaRak -> ['ant', -3]
+DusankaKov -> ['s', -1]
+
+2017-12-08 01:47:57
+
+Zapad: 
+MilicaRak -> ['p', 2]
+
+2017-12-08 01:48:41
+
+Zapad: 
+BranislavSav -> ['s', 0]
+
+2017-12-08 01:50:16
+
+Zapad: 
+MilicaRak -> ['p', 1]
+
+Sever: 
+LjubomirBra -> ['p', 3]
+
+
+2017-12-08 01:50:58
+
+Zapad: 
+BranislavSav -> ['p', 0.5]
+DusankaKov -> ['p', 2]
+
+2017-12-08 01:51:10
+
+Zapad: 
+BranislavSav -> ['p', 3]
+
+Sever: 
+CaslavLuk -> ['p', 3]
+AndrijanaMik -> ['p', 3]
+
+
+2017-12-08 01:52:12
+
+Zapad: 
+BranislavSav -> ['p', 0]
+DusankaKov -> ['s', 3]
+
+2017-12-08 01:52:14
+
+Zapad: 
+BranislavSav -> ['p', 1]
+MilicaRak -> ['s', 0]
+
+2017-12-08 01:52:17
+
+Zapad: 
+BranislavSav -> ['p', 3]
+DusankaKov -> ['p', 2]
+
+2017-12-08 01:53:17
+
+Zapad: 
+BranislavSav -> ['p', 1]
+MilicaRak -> ['p', 0]
+DusankaKov -> ['p', 3]
+
+2017-12-08 01:54:17
+
+Zapad: 
+BranislavSav -> ['p', 1]
+
+2017-12-08 01:55:54
+
+Zapad: 
+MilicaRak -> ['s', 1]
+DusankaKov -> ['p', 3]
+
+2017-12-08 01:57:30
+
+Zapad: 
+MilicaRak -> ['s', 4]
+
+2017-12-08 01:57:55
+
+Zapad: 
+BranislavSav -> ['p', 2]
+MilicaRak -> ['p', 1]
+
+Sever: 
+LjubomirBra -> ['p', 2]
+CaslavLuk -> ['p', 3]
+
+
+2017-12-08 01:58:43
+
+Zapad: 
+BranislavSav -> ['p', 1]
+
+Sever: 
+DianaSek -> ['p', 3]
+AndrijanaMik -> ['p', 1]
+
+
+2017-11-08 19:40:13
+
+Sever: 
+CaslavLuk -> ['s', 4]
+
+2017-11-08 19:43:45
+
+Sever: 
+DianaSek -> ['kcg', 3]
+CaslavLuk -> ['s', 5]
+
+2017-11-08 19:44:30
+
+Sever: 
+DianaSek -> ['p', 2]
+CaslavLuk -> ['p', 3]
+AndrijanaMik -> ['s', 1]
+
+2017-11-08 19:47:05
+
+Sever: 
+LjubomirBra -> ['sda', 1]
+DianaSek -> ['sda', 2]
+CaslavLuk -> ['s', 1]
+NikolaPer(Nina) -> ['s', 3]
+AndrijanaMik -> ['s', 1]
+
+2017-11-08 19:47:36
+
+Sever: 
+DianaSek -> ['s', 3.5]
+AndrijanaMik -> ['s', 2]
+
+2017-11-08 19:48:18
+
+Sever: 
+NikolaPer(Nina) -> ['p', 2]
+
+2017-11-08 19:48:43
+
+Sever: 
+LjubomirBra -> ['s', 3]
+NikolaPer(Nina) -> ['p', 2]
+
+2017-11-08 19:50:23
+
+Sever: 
+NikolaPer(Nina) -> ['s', 2]
+
+2017-11-08 19:53:45
+
+Sever: 
+NikolaPer(Nina) -> ['p', 2]
+
+Istok: 
+AleksandraMij -> ['s', 1]
+IvaTok -> ['p', 3]
+
+
+2017-11-08 19:54:15
+
+Sever: 
+LjubomirBra -> ['s', 2]
+DianaSek -> ['s', 3]
+
+2017-11-08 19:54:30
+
+Sever: 
+AndrijanaMik -> ['p', 3]
+
+2017-11-08 19:55:07
+
+Sever: 
+DianaSek -> ['p', 4]
+CaslavLuk -> ['s', 4]
+
+2017-11-08 19:56:58
+
+Sever: 
+NikolaPer(Nina) -> ['s', 2]
+
+2017-11-08 19:57:44
+
+Sever: 
+LjubomirBra -> ['p', -1]
+DianaSek -> ['p', 0]
+CaslavLuk -> ['p', 0]
+NikolaPer(Nina) -> ['s', 0]
+AndrijanaMik -> ['p', -1]
+
+2017-11-08 20:00:28
+
+Sever: 
+CaslavLuk -> ['p', 3]
+NikolaPer(Nina) -> ['p', 2]
+
+2017-11-08 20:02:59
+
+Sever: 
+LjubomirBra -> ['s', 2]
+
+2017-11-08 20:04:59
+
+Sever: 
+NikolaPer(Nina) -> ['p', 3]
+
+2017-11-08 20:08:24
+
+Sever: 
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['s', 1]
+
+2017-11-08 20:08:49
+
+Sever: 
+LjubomirBra -> ['p', 0]
+DianaSek -> ['p', -2]
+CaslavLuk -> ['p', -2]
+NikolaPer(Nina) -> ['p', -1]
+NastasijaPet -> ['p', -1]
+AndrijanaMik -> ['p', -2]
+
+2017-11-08 20:10:07
+
+Sever: 
+DianaSek -> ['p', 1]
+CaslavLuk -> ['p', 0]
+NikolaPer(Nina) -> ['s', 1]
+NastasijaPet -> ['p', 2]
+AndrijanaMik -> ['p', 0]
+
+2017-11-08 20:13:55
+
+Sever: 
+DianaSek -> ['p', -1]
+CaslavLuk -> ['p', 0]
+AndrijanaMik -> ['s', -2]
+
+2017-11-08 20:14:07
+
+Sever: 
+NastasijaPet -> ['s', 2]
+
+2017-11-08 20:16:17
+
+Sever: 
+DianaSek -> ['ant', 2]
+NikolaPer(Nina) -> ['s', 3]
+
+2017-11-08 20:17:55
+
+Sever: 
+LjubomirBra -> ['kap', 2]
+DianaSek -> ['kap', 1]
+CaslavLuk -> ['s', 2]
+NastasijaPet -> ['s', 3]
+AndrijanaMik -> ['s', 3]
+
+2017-11-08 20:22:01
+
+Sever: 
+NikolaPer(Nina) -> ['s', 2]
+
+2017-11-08 20:23:03
+
+Sever: 
+LjubomirBra -> ['p', 2]
+DianaSek -> ['p', 2]
+CaslavLuk -> ['p', 4]
+NikolaPer(Nina) -> ['p', 2]
+NastasijaPet -> ['p', 2]
+AndrijanaMik -> ['p', 1]
+
+2017-11-08 20:23:46
+
+Sever: 
+LjubomirBra -> ['p', -1]
+DianaSek -> ['p', -2]
+CaslavLuk -> ['p', -2]
+NikolaPer(Nina) -> ['p', -1]
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['p', -2]
+
+2017-11-08 20:25:30
+
+Sever: 
+LjubomirBra -> ['p', 3]
+DianaSek -> ['p', 4]
+CaslavLuk -> ['p', 4]
+NastasijaPet -> ['p', 3]
+
+2017-11-08 20:27:06
+
+Sever: 
+DianaSek -> ['s', 2]
+
+2017-11-08 20:27:22
+
+Sever: 
+LjubomirBra -> ['p', -1]
+DianaSek -> ['p', 0]
+CaslavLuk -> ['p', -2]
+NikolaPer(Nina) -> ['s', -1]
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['p', -1]
+
+2017-11-08 20:29:38
+
+Sever: 
+DianaSek -> ['p', 4]
+
+2017-11-08 20:32:13
+
+Sever: 
+LjubomirBra -> ['s', 1]
+DianaSek -> ['p', 3.5]
+
+Istok: 
+AleksandraMij -> ['s', 1]
+AnaMarijaCer -> ['s', 1]
+IvaTok -> ['s', 2]
+
+
+2017-11-08 20:32:23
+
+Sever: 
+CaslavLuk -> ['s', 3]
+NastasijaPet -> ['s', 1]
+
+2017-11-08 20:36:15
+
+Sever: 
+LjubomirBra -> ['p', 3]
+DianaSek -> ['ant', 2]
+NastasijaPet -> ['p', 2]
+AndrijanaMik -> ['p', 1]
+
+2017-11-08 20:37:45
+
+Sever: 
+LjubomirBra -> ['s', 3]
+
+2017-11-08 20:40:30
+
+Sever: 
+DianaSek -> ['p', 4]
+CaslavLuk -> ['p', 4]
+AndrijanaMik -> ['p', 1]
+
+2017-11-08 20:40:34
+
+Sever: 
+LjubomirBra -> ['ant', 3]
+
+2017-11-08 20:41:44
+
+Sever: 
+LjubomirBra -> ['p', 1]
+DianaSek -> ['p', 0]
+CaslavLuk -> ['p', 0]
+NastasijaPet -> ['s', 1]
+AndrijanaMik -> ['p', 1]
+
+2017-11-08 20:42:28
+
+Sever: 
+LjubomirBra -> ['p', -2]
+DianaSek -> ['p', -2]
+CaslavLuk -> ['p', -1]
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['p', 0]
+
+Istok: 
+AleksandraMij -> ['s', -1]
+AnaMarijaCer -> ['s', 0]
+IvaTok -> ['s', 1]
+MarijaKov -> ['s', 2]
+
+
+2017-11-08 20:43:03
+
+Sever: 
+LjubomirBra -> ['p', 0]
+DianaSek -> ['p', 0]
+CaslavLuk -> ['p', 1]
+NastasijaPet -> ['p', -2]
+
+2017-11-08 20:44:50
+
+Sever: 
+LjubomirBra -> ['p', -1]
+DianaSek -> ['p', 1]
+
+2017-11-08 20:44:58
+
+Sever: 
+LjubomirBra -> ['s', 0]
+DianaSek -> ['ant', 1]
+CaslavLuk -> ['s', -1]
+NikolaPer(Nina) -> ['s', 1]
+AndrijanaMik -> ['s', 1]
+
+2017-11-08 20:52:20
+
+Sever: 
+NastasijaPet -> ['s', 3]
+
+2017-11-08 20:53:56
+
+Sever: 
+NikolaPer(Nina) -> ['s', 2]
+AndrijanaMik -> ['s', 1]
+
+2017-11-08 20:55:29
+
+Sever: 
+LjubomirBra -> ['s', 3]
+
+2017-11-08 20:57:43
+
+Sever: 
+DianaSek -> ['kap', 1]
+
+2017-11-08 21:00:15
+
+Sever: 
+DianaSek -> ['p', 5]
+
+2017-11-08 21:04:09
+
+Sever: 
+LjubomirBra -> ['s', 4]
+DianaSek -> ['p', 4.5]
+
+2017-11-08 21:04:49
+
+Sever: 
+LjubomirBra -> ['p', 2]
+CaslavLuk -> ['p', 2]
+NastasijaPet -> ['s', 2]
+
+2017-11-08 21:07:15
+
+Sever: 
+DianaSek -> ['kcg', 2]
+
+2017-11-08 21:08:21
+
+Sever: 
+DianaSek -> ['s', 2]
+CaslavLuk -> ['s', 5]
+
+2017-11-08 21:12:32
+
+Sever: 
+LjubomirBra -> ['p', -1]
+DianaSek -> ['p', -1]
+CaslavLuk -> ['p', -2]
+NastasijaPet -> ['s', 0]
+
+2017-11-08 21:14:22
+
+Sever: 
+DianaSek -> ['p', 5]
+
+2017-11-08 21:17:34
+
+Sever: 
+LjubomirBra -> ['p', 3]
+
+2017-11-08 21:19:25
+
+Sever: 
+DianaSek -> ['p', 2]
+
+2017-11-08 21:21:24
+
+Sever: 
+NastasijaPet -> ['p', 3]
+
+2017-11-08 21:23:31
+
+Sever: 
+DianaSek -> ['p', 3]
+CaslavLuk -> ['p', -2]
+NastasijaPet -> ['p', -2]
+
+2017-11-08 21:32:04
+
+Sever: 
+DianaSek -> ['p', 2]
+
+2017-11-08 21:32:22
+
+Sever: 
+DianaSek -> ['kap', -6]
+CaslavLuk -> ['s', -6]
+NastasijaPet -> ['p', -2]
+DarioPiu -> ['s', 2]
+IvaTok -> ['s', -6]
+
+2017-11-08 21:40:06
+
+Sever: 
+CaslavLuk -> ['p', 1]
+IvaTok -> ['p', 1]
+
+2017-11-08 21:40:31
+
+Sever: 
+DianaSek -> ['p', 3.5]
+
+2017-11-08 21:40:44
+
+Sever: 
+CaslavLuk -> ['s', 4]
+NastasijaPet -> ['s', 3]
+IvaTok -> ['sda', 2]
+
+2017-11-08 21:41:56
+
+Sever: 
+DianaSek -> ['p', 3]
+DarioPiu -> ['p', 2]
+IvaTok -> ['p', 1]
+
+2017-11-08 21:42:20
+
+Sever: 
+DianaSek -> ['p', 2]
+NastasijaPet -> ['s', 3]
+
+2017-11-08 21:43:50
+
+Sever: 
+DarioPiu -> ['p', 2]
+
+2017-11-08 21:43:57
+
+Sever: 
+DianaSek -> ['p', 2]
+DarioPiu -> ['p', 3]
+IvaTok -> ['p', 2]
+
+2017-11-08 21:45:47
+
+Sever: 
+IvaTok -> ['p', 0]
+
+2017-11-08 21:47:23
+
+Sever: 
+DianaSek -> ['p', 0]
+DarioPiu -> ['p', 2]
+IvaTok -> ['p', 0]
+
+2017-11-08 21:48:26
+
+Sever: 
+NastasijaPet -> ['s', -1]
+AndrijanaMik -> ['s', -3]
+
+2017-11-08 21:50:18
+
+Sever: 
+DianaSek -> ['sda', 1]
+CaslavLuk -> ['p', -2]
+NastasijaPet -> ['p', 1]
+AndrijanaMik -> ['s', -2]
+DarioPiu -> ['p', 0]
+IvaTok -> ['p', -1]
+
+2017-11-08 21:57:14
+
+Sever: 
+DianaSek -> ['p', 3]
+NikolaPer(Nina) -> ['p', 2]
+
+2017-11-08 21:58:30
+
+Sever: 
+CaslavLuk -> ['p', -1]
+NikolaPer(Nina) -> ['p', 2]
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['s', 0]
+DarioPiu -> ['s', 1]
+IvaTok -> ['s', 0]
+
+2017-11-08 21:59:23
+
+Sever: 
+DarioPiu -> ['p', 1]
+
+2017-11-08 22:00:22
+
+Sever: 
+DianaSek -> ['s', 3]
+CaslavLuk -> ['s', 2]
+AndrijanaMik -> ['s', 1]
+
+2017-11-08 22:00:29
+
+Sever: 
+NikolaPer(Nina) -> ['p', 4]
+
+2017-11-08 22:02:52
+
+Sever: 
+NastasijaPet -> ['s', -1]
+
+2017-11-08 22:05:41
+
+Sever: 
+DianaSek -> ['p', 0]
+CaslavLuk -> ['p', 1]
+NikolaPer(Nina) -> ['s', 0]
+NastasijaPet -> ['p', 2]
+AndrijanaMik -> ['p', -1]
+IvaTok -> ['p', 1]
+
+2017-11-08 22:06:38
+
+Sever: 
+DianaSek -> ['p', -0.5]
+
+2017-11-08 22:08:05
+
+Sever: 
+AndrijanaMik -> ['p', 3]
+
+2017-11-08 22:10:05
+
+Sever: 
+CaslavLuk -> ['s', 4]
+NikolaPer(Nina) -> ['p', 3]
+AndrijanaMik -> ['p', 2]
+
+2017-11-08 22:11:38
+
+Sever: 
+NikolaPer(Nina) -> ['p', 3]
+
+2017-11-08 22:12:56
+
+Sever: 
+CaslavLuk -> ['s', 4]
+
+2017-11-08 22:13:29
+
+Sever: 
+DianaSek -> ['p', -1]
+CaslavLuk -> ['p', -2]
+NikolaPer(Nina) -> ['s', 2]
+NastasijaPet -> ['p', -2]
+AndrijanaMik -> ['p', -1]
+DarioPiu -> ['p', 0]
+IvaTok -> ['p', -2]
+
+2017-11-08 22:14:19
+
+Sever: 
+NastasijaPet -> ['s', -1]
+AndrijanaMik -> ['s', 0]
+
+2017-11-08 22:15:10
+
+Sever: 
+DianaSek -> ['p', 1]
+NikolaPer(Nina) -> ['s', 1]
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['s', 1]
+IvaTok -> ['p', 1]
+
+2017-11-08 22:15:41
+
+Sever: 
+DianaSek -> ['p', 2]
+CaslavLuk -> ['s', -1]
+AndrijanaMik -> ['s', 1]
+DarioPiu -> ['p', 2]
+IvaTok -> ['p', 2]
+
+2017-11-08 22:15:42
+
+Sever: 
+DianaSek -> ['kcg', 2]
+NikolaPer(Nina) -> ['p', 1]
+NastasijaPet -> ['s', 2]
+AndrijanaMik -> ['p', 1]
+IvaTok -> ['s', 1]
+
+2017-11-08 22:16:55
+
+Sever: 
+DianaSek -> ['p', 4]
+NikolaPer(Nina) -> ['p', 3]
+
+2017-11-08 22:19:10
+
+Sever: 
+IvaTok -> ['s', 2]
+
+2017-11-08 22:21:03
+
+Sever: 
+NikolaPer(Nina) -> ['p', 3]
+AndrijanaMik -> ['p', 0]
+DarioPiu -> ['s', 2]
+IvaTok -> ['p', 1]
+
+2017-11-08 22:25:07
+
+Sever: 
+NastasijaPet -> ['s', -1]
+
+2017-11-08 22:26:53
+
+Sever: 
+DianaSek -> ['s', 2]
+CaslavLuk -> ['s', 2]
+NikolaPer(Nina) -> ['s', 1]
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['s', 0]
+DarioPiu -> ['p', 2]
+
+2017-11-08 22:28:20
+
+Sever: 
+IvaTok -> ['sda', 3]
+
+2017-11-08 22:29:02
+
+Sever: 
+AndrijanaMik -> ['s', 1]
+
+2017-11-08 22:29:42
+
+Sever: 
+NikolaPer(Nina) -> ['p', 3]
+
+2017-11-08 22:30:41
+
+Sever: 
+CaslavLuk -> ['p', 2]
+NastasijaPet -> ['p', 1]
+DarioPiu -> ['p', 2]
+
+2017-11-08 22:32:52
+
+Sever: 
+DianaSek -> ['p', 0]
+CaslavLuk -> ['p', -2]
+NikolaPer(Nina) -> ['p', 2]
+NastasijaPet -> ['p', 1]
+AndrijanaMik -> ['p', 0]
+DarioPiu -> ['p', 2]
+
+2017-11-08 22:32:56
+
+Sever: 
+DianaSek -> ['kcg', 2]
+NikolaPer(Nina) -> ['s', 1]
+AndrijanaMik -> ['p', 2]
+
+2017-11-08 22:38:53
+
+Sever: 
+DianaSek -> ['s', 0]
+CaslavLuk -> ['s', 0]
+NikolaPer(Nina) -> ['p', 2]
+NastasijaPet -> ['s', 1]
+AndrijanaMik -> ['s', 2]
+DarioPiu -> ['s', 3]
+IvaTok -> ['s', 0]
+
+2017-11-08 22:41:33
+
+Sever: 
+AndrijanaMik -> ['p', 2]
+
+2017-11-08 22:41:55
+
+Sever: 
+NikolaPer(Nina) -> ['p', 4]
+AndrijanaMik -> ['p', 2]
+
+2017-11-08 22:42:12
+
+Sever: 
+AndrijanaMik -> ['p', 4]
+
+2017-11-08 22:45:38
+
+Sever: 
+NastasijaPet -> ['s', 3]
+
+2017-11-08 22:46:58
+
+Sever: 
+AndrijanaMik -> ['s', 3]
+
+2017-11-08 22:47:34
+
+Sever: 
+NastasijaPet -> ['s', 3]
+AndrijanaMik -> ['s', 2]
+
+2017-11-08 22:51:53
+
+Sever: 
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['p', 0]
+DarioPiu -> ['p', 0]
+IvaTok -> ['p', -1]
+
+2017-11-08 22:51:59
+
+Sever: 
+AndrijanaMik -> ['s', 2]
+
+2017-11-08 22:52:30
+
+Sever: 
+AndrijanaMik -> ['p', 2]
+DarioPiu -> ['p', 4]
+
+2017-11-08 22:53:47
+
+Sever: 
+IvaTok -> ['p', 1]
+
+2017-11-08 22:55:34
+
+Sever: 
+LjubomirBra -> ['p', -1]
+NastasijaPet -> ['p', 1]
+AndrijanaMik -> ['p', -2]
+DarioPiu -> ['p', 0]
+IvaTok -> ['p', -2]
+
+2017-11-08 22:55:46
+
+Sever: 
+NastasijaPet -> ['p', 1]
+AndrijanaMik -> ['p', 1]
+DarioPiu -> ['s', 2]
+IvaTok -> ['s', 0]
+
+2017-11-08 22:57:38
+
+Sever: 
+LjubomirBra -> ['p', 0]
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['p', -1]
+DarioPiu -> ['s', 0]
+IvaTok -> ['p', -2]
+
+2017-11-08 22:59:02
+
+Sever: 
+LjubomirBra -> ['s', 3]
+
+2017-11-08 23:06:01
+
+Sever: 
+LjubomirBra -> ['p', 3]
+AndrijanaMik -> ['s', 3]
+DarioPiu -> ['p', 3]
+IvaTok -> ['p', 1]
+
+2017-11-08 23:09:49
+
+Sever: 
+NastasijaPet -> ['p', 0]
+AndrijanaMik -> ['p', 1]
+DarioPiu -> ['p', 2]
+IvaTok -> ['p', 1]
+
+2017-11-08 23:10:08
+
+Sever: 
+LjubomirBra -> ['p', 2]
+DarioPiu -> ['s', -1]
+
+2017-11-08 23:10:42
+
+Sever: 
+LjubomirBra -> ['p', 2]
+
+2017-11-08 23:11:14
+
+Sever: 
+LjubomirBra -> ['p', 3]
+
+2017-11-08 23:11:33
+
+Sever: 
+LjubomirBra -> ['s', 3]
+
+2017-11-08 23:15:30
+
+Sever: 
+NastasijaPet -> ['s', 1]
+
+2017-11-08 23:16:14
+
+Sever: 
+LjubomirBra -> ['p', 2]
+
+2017-11-08 23:17:50
+
+Sever: 
+LjubomirBra -> ['p', 3]
+
+2017-11-08 23:22:47
+
+Sever: 
+LjubomirBra -> ['p', 1]
+DarioPiu -> ['s', 3]
+
+2017-11-08 23:22:58
+
+Sever: 
+LjubomirBra -> ['p', -2]
+NastasijaPet -> ['p', 0]
+DarioPiu -> ['p', 0]
+
+2017-11-08 23:25:02
+
+Sever: 
+LjubomirBra -> ['p', -2]
+NastasijaPet -> ['p', -1]
+DarioPiu -> ['s', 1]
+
+2017-11-08 23:25:20
+
+Sever: 
+LjubomirBra -> ['p', 2]
+
+2017-11-08 23:28:34
+
+Sever: 
+LjubomirBra -> ['ant', 2]
+
+2017-11-08 23:32:01
+
+Sever: 
+DarioPiu -> ['s', 2]
+
+2017-11-08 23:35:16
+
+Sever: 
+LjubomirBra -> ['p', 2]
+
+2017-11-08 23:40:44
+
+Sever: 
+LjubomirBra -> ['p', 1]
+
+2017-11-08 23:47:33
+
+Sever: 
+LjubomirBra -> ['p', 2]
+
+2017-11-08 23:47:38
+
+Sever: 
+LjubomirBra -> ['p', 3]
+
+2017-11-08 23:50:07
+
+Sever: 
+AndrijanaMik -> ['s', 2]
+
+2017-11-08 23:50:57
+
+Sever: 
+LjubomirBra -> ['p', 1]
+
+2017-11-08 23:54:09
+
+Sever: 
+LjubomirBra -> ['p', 3]
+
+2017-11-08 23:55:23
+
+Sever: 
+LjubomirBra -> ['p', 2]
+
+2017-11-08 23:57:06
+
+Sever: 
+LjubomirBra -> ['p', -1]
+AndrijanaMik -> ['p', 0]
+
+2017-11-08 23:59:30
+
+Sever: 
+LjubomirBra -> ['p', 1]
+AndrijanaMik -> ['p', 2]
+
+2017-11-08 00:00:24
+
+Sever: 
+AndrijanaMik -> ['s', -2]
+
+2017-11-08 00:00:25
+
+Sever: 
+AndrijanaMik -> ['s', 2]
+
+2017-12-08 00:00:41
+
+Sever: 
+LjubomirBra -> ['p', 3]
+CaslavLuk -> ['p', -3]
+
+2017-12-08 00:02:22
+
+Sever: 
+CaslavLuk -> ['p', 3]
+
+2017-12-08 00:02:33
+
+Sever: 
+DianaSek -> ['p', 3]
+AndrijanaMik -> ['s', 2]
+
+2017-12-08 00:11:08
+
+Sever: 
+AndrijanaMik -> ['s', 1]
+
+2017-12-08 00:11:39
+
+Sever: 
+CaslavLuk -> ['s', 4]
+
+2017-12-08 00:12:07
+
+Sever: 
+CaslavLuk -> ['s', 3]
+
+2017-12-08 00:12:14
+
+Sever: 
+DianaSek -> ['p', 2]
+CaslavLuk -> ['p', 2]
+
+2017-12-08 00:12:29
+
+Sever: 
+CaslavLuk -> ['s', 3]
+
+2017-12-08 00:15:06
+
+Sever: 
+LjubomirBra -> ['p', 2]
+DianaSek -> ['p', 4]
+
+2017-12-08 00:15:13
+
+Sever: 
+DianaSek -> ['ant', 0]
+CaslavLuk -> ['p', 0]
+
+2017-12-08 00:15:44
+
+Sever: 
+LjubomirBra -> ['p', 3]
+DianaSek -> ['s', 3]
+AndrijanaMik -> ['p', 1]
+
+2017-12-08 00:15:55
+
+Sever: 
+DianaSek -> ['p', 5]
+AndrijanaMik -> ['p', -2]
+
+2017-12-08 00:16:12
+
+Sever: 
+DianaSek -> ['p', 2]
+CaslavLuk -> ['p', 0]
+AndrijanaMik -> ['s', 1]
+
+2017-12-08 00:18:30
+
+Sever: 
+AndrijanaMik -> ['s', 3]
+
+2017-12-08 00:16:12
+
+Sever: 
+AndrijanaMik -> ['p', 2]
+
+2017-12-08 00:18:30
+
+Sever: 
+CaslavLuk -> ['p', 3]
+
+2017-12-08 00:18:45
+
+Sever: 
+LjubomirBra -> ['p', 3]
+DianaSek -> ['p', 2]
+AndrijanaMik -> ['p', 2]
+
+2017-10-08 00:19:25
+
+Sever: 
+DianaSek -> ['p', 3]
+CaslavLuk -> ['p', 2]
+
+2017-12-08 00:25:51
+
+Sever: 
+LjubomirBra -> ['p', 3]
+DianaSek -> ['p', 4]
+
+2017-12-08 00:26:58
+
+Sever: 
+LjubomirBra -> ['p', -1]
+DianaSek -> ['p', -0.5]
+CaslavLuk -> ['s', 0]
+
+2017-12-08 00:27:36
+
+Sever: 
+LjubomirBra -> ['p', 4]
+DianaSek -> ['p', 3]
+CaslavLuk -> ['p', -3]
+
+2017-12-08 00:29:19
+
+Sever: 
+LjubomirBra -> ['s', 2]
+DianaSek -> ['p', 1]
+CaslavLuk -> ['p', -1]
+
+2017-12-08 00:31:51
+
+Sever: 
+LjubomirBra -> ['p', 3]
+DianaSek -> ['s', 4]
+
+2017-12-08 00:31:56
+
+Sever: 
+AndrijanaMik -> ['s', 2]
+
+2017-12-08 00:35:00
+
+Sever: 
+AndrijanaMik -> ['s', 3]
+
+2017-12-08 00:37:15
+
+Sever: 
+LjubomirBra -> ['p', -2]
+DianaSek -> ['p', -2]
+CaslavLuk -> ['p', -2]
+AndrijanaMik -> ['p', -3]
+
+2017-12-08 00:38:11
+
+Sever: 
+AndrijanaMik -> ['s', 1]
+
+2017-12-08 00:38:58
+
+Sever: 
+DianaSek -> ['p', 4.5]
+
+2017-12-08 00:39:17
+
+Sever: 
+CaslavLuk -> ['p', 3]
+AndrijanaMik -> ['p', 2]
+
+2017-12-08 00:41:12
+
+Sever: 
+DianaSek -> ['kcg', 2]
+CaslavLuk -> ['p', 4]
+
+2017-12-08 00:41:14
+
+Sever: 
+AndrijanaMik -> ['p', 1]
+
+2017-12-08 00:41:28
+
+Sever: 
+LjubomirBra -> ['ant', 2]
+DianaSek -> ['p', 3]
+CaslavLuk -> ['p', 3]
+AndrijanaMik -> ['s', 3]
+
+2017-12-08 00:42:30
+
+Sever: 
+LjubomirBra -> ['p', 3]
+
+2017-12-08 00:42:32
+
+Sever: 
+AndrijanaMik -> ['s', 3]
+
+2017-12-08 00:42:58
+
+Sever: 
+CaslavLuk -> ['p', 4]
+AndrijanaMik -> ['p', 3]
+
+2017-12-08 00:45:12
+
+Sever: 
+DianaSek -> ['kcg', 4]
+AndrijanaMik -> ['s', 1]
+
+2017-12-08 00:46:07
+
+Sever: 
+AndrijanaMik -> ['p', 1]
+
+2017-12-08 00:48:00
+
+Sever: 
+DianaSek -> ['p', 5]
+
+2017-12-08 00:49:24
+
+Sever: 
+DianaSek -> ['p', 1]
+CaslavLuk -> ['p', 1]
+AndrijanaMik -> ['p', -1]
+
+2017-12-08 00:50:08
+
+Sever: 
+LjubomirBra -> ['p', 3]
+DianaSek -> ['p', 1]
+CaslavLuk -> ['p', 1]
+AndrijanaMik -> ['p', 3]
+
+2017-12-08 00:50:21
+
+Sever: 
+LjubomirBra -> ['p', 0]
+
+2017-12-08 00:53:47
+
+Sever: 
+CaslavLuk -> ['s', 4]
+
+2017-12-08 00:55:05
+
+Sever: 
+LjubomirBra -> ['p', 2]
+DianaSek -> ['s', 3]
+
+2017-12-08 00:56:42
+
+Sever: 
+DianaSek -> ['p', 4]
+AndrijanaMik -> ['p', 2]
+
+2017-12-08 01:02:43
+
+Sever: 
+CaslavLuk -> ['p', 1]
+AndrijanaMik -> ['p', 1]
+
+2017-12-08 01:06:14
+
+Sever: 
+LjubomirBra -> ['p', 0]
+DianaSek -> ['p', 2]
+AndrijanaMik -> ['p', 1]
+
+2017-12-08 01:06:18
+
+Sever: 
+LjubomirBra -> ['p', 1]
+CaslavLuk -> ['p', 1]
+
+2017-12-08 01:06:58
+
+Sever: 
+DianaSek -> ['p', 2]
+CaslavLuk -> ['p', -1]
+AndrijanaMik -> ['p', -1]
+
+2017-12-08 01:06:59
+
+Sever: 
+DianaSek -> ['p', 1]
+CaslavLuk -> ['p', 1]
+AndrijanaMik -> ['p', 2]
+
+2017-12-08 01:08:17
+
+Sever: 
+DianaSek -> ['p', 4]
+AndrijanaMik -> ['p', 1]
+
+2017-12-08 01:10:23
+
+Sever: 
+AndrijanaMik -> ['s', 1]
+
+2017-12-08 01:15:20
+
+Sever: 
+AndrijanaMik -> ['p', 2]
+
+2017-12-08 01:15:56
+
+Sever: 
+LjubomirBra -> ['p', -1]
+AndrijanaMik -> ['s', -1]
+
+2017-12-08 01:17:17
+
+Sever: 
+LjubomirBra -> ['p', 2]
+DianaSek -> ['p', 1]
+AndrijanaMik -> ['s', 1]
+
+2017-12-08 01:18:45
+
+Sever: 
+LjubomirBra -> ['p', -2]
+DianaSek -> ['p', -1]
+AndrijanaMik -> ['s', -3]
+
+2017-12-08 01:19:02
+
+Sever: 
+LjubomirBra -> ['p', 3]
+DianaSek -> ['p', 0]
+AndrijanaMik -> ['s', -1]
+
+2017-12-08 01:19:53
+
+Sever: 
+CaslavLuk -> ['p', 2]
+AndrijanaMik -> ['s', 2]
+
+2017-12-08 01:19:55
+
+Sever: 
+LjubomirBra -> ['p', -2]
+DianaSek -> ['p', 0]
+CaslavLuk -> ['p', 0]
+AndrijanaMik -> ['p', 3]
+
+2017-12-08 01:22:12
+
+Sever: 
+LjubomirBra -> ['s', 3]
+
+2017-12-08 01:22:56
+
+Sever: 
+DianaSek -> ['p', 1]
+CaslavLuk -> ['p', 4]
+AndrijanaMik -> ['s', 2]
+
+2017-12-08 01:28:10
+
+Sever: 
+DianaSek -> ['p', -4]
+
+2017-12-08 01:32:25
+
+Sever: 
+LjubomirBra -> ['p', 3]
+DianaSek -> ['p', 1]
+AndrijanaMik -> ['p', -1]
+
+2017-12-08 01:34:10
+
+Sever: 
+LjubomirBra -> ['p', -2]
+DianaSek -> ['p', -1]
+CaslavLuk -> ['p', -1]
+NikolaPer(Nina) -> ['p', 2]
+AndrijanaMik -> ['p', -2]
+
+2017-12-08 01:34:16
+
+Sever: 
+AndrijanaMik -> ['p', 1]
+
+2017-12-08 01:37:12
+
+Sever: 
+LjubomirBra -> ['p', 2]
+DianaSek -> ['p', 1]
+CaslavLuk -> ['p', 1]
+AndrijanaMik -> ['p', -1]
+
+2017-12-08 01:39:56
+
+Sever: 
+LjubomirBra -> ['p', 2]
+DianaSek -> ['p', 2]
+CaslavLuk -> ['p', 2]
+AndrijanaMik -> ['p', 1]
+
+2017-12-08 01:40:05
+
+Sever: 
+DianaSek -> ['p', 3]
+NikolaPer(Nina) -> ['p', 2]
+AndrijanaMik -> ['p', 3]
+
+2017-12-08 01:44:33
+
+Sever: 
+LjubomirBra -> ['p', -1]
+NikolaPer(Nina) -> ['p', 1]
+AndrijanaMik -> ['p', 1]
+
+2017-12-08 01:45:00
+
+Sever: 
+CaslavLuk -> ['p', 0]
+
+2017-12-08 01:45:23
+
+Sever: 
+LjubomirBra -> ['p', -2]
+DianaSek -> ['p', 3]
+CaslavLuk -> ['p', 0]
+NikolaPer(Nina) -> ['s', 3]
+AndrijanaMik -> ['s', -1]
+
+2017-12-08 01:45:46
+
+Sever: 
+LjubomirBra -> ['s', -2]
+DianaSek -> ['s', -1]
+CaslavLuk -> ['s', -2]
+NikolaPer(Nina) -> ['s', 0]
+AndrijanaMik -> ['s', -3]
+
+2017-12-08 01:50:19
+
+Sever: 
+LjubomirBra -> ['p', 3]
+
+2017-12-08 01:51:12
+
+Sever: 
+CaslavLuk -> ['p', 3]
+AndrijanaMik -> ['p', 3]
+
+2017-12-08 01:51:34
+
+Sever: 
+AndrijanaMik -> ['p', 2]
+
+2017-12-08 01:52:46
+
+Sever: 
+DianaSek -> ['p', 2]
+CaslavLuk -> ['p', 0]
+AndrijanaMik -> ['p', 0]
+
+2017-12-08 01:52:49
+
+Sever: 
+CaslavLuk -> ['p', 1]
+AndrijanaMik -> ['s', 1]
+
+2017-12-08 01:52:51
+
+Sever: 
+NikolaPer(Nina) -> ['p', 3]
+
+2017-12-08 01:53:52
+
+Sever: 
+LjubomirBra -> ['p', 2]
+DianaSek -> ['p', 0]
+AndrijanaMik -> ['p', 1]
+
+2017-12-08 01:55:10
+
+Sever: 
+CaslavLuk -> ['p', 4]
+
+2017-12-08 01:56:29
+
+Sever: 
+LjubomirBra -> ['s', 0]
+DianaSek -> ['p', 0]
+CaslavLuk -> ['s', 1]
+NikolaPer(Nina) -> ['p', 1]
+AndrijanaMik -> ['p', 0]
+
+2017-12-08 01:57:57
+
+Sever: 
+LjubomirBra -> ['p', 2]
+CaslavLuk -> ['p', 3]
+
+2017-12-08 01:58:31
+
+Sever: 
+LjubomirBra -> ['p', 1]
+DianaSek -> ['s', 2]
+CaslavLuk -> ['p', -2]
+NikolaPer(Nina) -> ['p', 4]
+AndrijanaMik -> ['p', 1]
+
+2017-12-08 01:58:40
+
+Sever: 
+DianaSek -> ['p', 3]
+AndrijanaMik -> ['p', 1]
+
+2017-12-08 01:59:04
+
+Sever: 
+LjubomirBra -> ['p', 1]
+CaslavLuk -> ['p', 2]
+NikolaPer(Nina) -> ['s', 1]
+
+2017-12-08 01:59:19
+
+Sever: 
+CaslavLuk -> ['p', 1]
+AndrijanaMik -> ['p', 1]
+
+2017-11-08 19:20:55
+
+Istok: 
+IvaTok -> ['p', 1]
+MarijaKov -> ['p', 2]
+SaraNik -> ['s', 2]
+
+2017-11-08 19:30:04
+
+Istok: 
+MarijaKov -> ['sda', 3]
+SaraNik -> ['s', 2]
+
+2017-11-08 19:31:04
+
+Istok: 
+MarijaKov -> ['sda', 3]
+
+2017-11-08 19:31:17
+
+Istok: 
+IvaTok -> ['s', 2]
+
+2017-11-08 19:31:24
+
+Istok: 
+IvaTok -> ['p', 2]
+
+2017-11-08 19:32:43
+
+Istok: 
+AleksandraMij -> ['s', 1]
+MarijaKov -> ['s', 3]
+
+2017-11-08 19:34:09
+
+Istok: 
+AleksandraMij -> ['p', 1]
+AnaMarijaCer -> ['p', 2]
+IvaTok -> ['p', 1]
+MarijaKov -> ['p', 1]
+SaraNik -> ['p', 1]
+DarioPiu -> ['p', 3]
+
+2017-11-08 19:34:37
+
+Istok: 
+MarijaKov -> ['s', 3]
+
+2017-11-08 19:35:20
+
+Istok: 
+MarijaKov -> ['s', 2]
+
+2017-11-08 19:35:51
+
+Istok: 
+SaraNik -> ['p', 2]
+
+2017-11-08 19:36:18
+
+Istok: 
+MarijaKov -> ['s', 2]
+
+2017-11-08 19:36:28
+
+Istok: 
+AleksandraMij -> ['s', 2]
+MarijaKov -> ['sda', 2]
+
+2017-11-08 19:36:32
+
+Istok: 
+AleksandraMij -> ['s', 2]
+AnaMarijaCer -> ['p', 3]
+IvaTok -> ['sda', 2]
+MarijaKov -> ['sda', 3]
+
+2017-11-08 19:38:04
+
+Istok: 
+AleksandraMij -> ['p', 3]
+MarijaKov -> ['p', 1]
+
+2017-11-08 19:39:28
+
+Istok: 
+MarijaKov -> ['p', 3]
+
+2017-11-08 19:39:45
+
+Istok: 
+IvaTok -> ['p', 2]
+MarijaKov -> ['s', 3]
+
+2017-11-08 19:39:55
+
+Istok: 
+MarijaKov -> ['p', 2]
+
+2017-11-08 19:40:45
+
+Istok: 
+IvaTok -> ['s', 2]
+
+2017-11-08 19:41:02
+
+Istok: 
+MarijaKov -> ['s', 4]
+
+2017-11-08 19:41:19
+
+Istok: 
+AnaMarijaCer -> ['p', 1]
+MarijaKov -> ['ant', 3]
+
+2017-11-08 19:41:37
+
+Istok: 
+MarijaKov -> ['sda', 3]
+
+2017-11-08 19:42:49
+
+Istok: 
+MarijaKov -> ['s', 2]
+
+2017-11-08 19:43:55
+
+Istok: 
+AleksandraMij -> ['s', 2]
+AnaMarijaCer -> ['s', 2]
+IvaTok -> ['p', 1]
+MarijaKov -> ['sda', 3]
+SaraNik -> ['s', 1]
+DarioPiu -> ['s', 3]
+
+2017-11-08 19:44:57
+
+Istok: 
+IvaTok -> ['sda', 2]
+MarijaKov -> ['s', 3]
+SaraNik -> ['s', 1]
+
+2017-11-08 19:46:29
+
+Istok: 
+AleksandraMij -> ['s', 2]
+AnaMarijaCer -> ['s', 1]
+IvaTok -> ['sda', 1]
+MarijaKov -> ['s', 1]
+DarioPiu -> ['s', 3]
+
+2017-11-08 19:48:33
+
+Istok: 
+SaraNik -> ['s', 1]
+
+2017-11-08 19:49:10
+
+Istok: 
+DarioPiu -> ['s', 4]
+
+2017-11-08 19:50:09
+
+Istok: 
+AleksandraMij -> ['p', 2]
+
+2017-11-08 19:50:11
+
+Istok: 
+MarijaKov -> ['s', 3]
+
+2017-11-08 19:53:43
+
+Istok: 
+AleksandraMij -> ['s', 1]
+IvaTok -> ['p', 3]
+
+2017-11-08 19:53:52
+
+Istok: 
+AleksandraMij -> ['p', 2]
+IvaTok -> ['p', 2]
+MarijaKov -> ['p', 2]
+SaraNik -> ['p', 1]
+DarioPiu -> ['p', 3]
+
+2017-11-08 19:53:55
+
+Istok: 
+AleksandraMij -> ['p', 1]
+IvaTok -> ['p', 0]
+MarijaKov -> ['p', 2]
+SaraNik -> ['p', 2]
+DarioPiu -> ['s', 3]
+
+2017-11-08 19:56:44
+
+Istok: 
+AleksandraMij -> ['p', 1]
+IvaTok -> ['p', 2]
+MarijaKov -> ['p', 0]
+SaraNik -> ['p', 0]
+DarioPiu -> ['p', 2]
+
+2017-11-08 19:57:09
+
+Istok: 
+AleksandraMij -> ['p', 0]
+IvaTok -> ['p', -2]
+MarijaKov -> ['p', 1]
+SaraNik -> ['s', 0]
+
+2017-11-08 19:57:49
+
+Istok: 
+AleksandraMij -> ['s', 1]
+
+2017-11-08 19:59:24
+
+Istok: 
+AleksandraMij -> ['s', 2]
+MarijaKov -> ['s', 3]
+
+2017-11-08 19:59:53
+
+Istok: 
+IvaTok -> ['s', 1]
+MarijaKov -> ['s', 2]
+SaraNik -> ['s', 1]
+
+2017-11-08 20:01:20
+
+Istok: 
+IvaTok -> ['s', 0]
+SaraNik -> ['s', 1]
+
+2017-11-08 20:08:15
+
+Istok: 
+AleksandraMij -> ['s', 0]
+IvaTok -> ['s', -1]
+MarijaKov -> ['s', -1]
+DusankaKov -> ['p', 0]
+SaraNik -> ['p', -1]
+DarioPiu -> ['s', 0]
+
+2017-11-08 20:09:32
+
+Istok: 
+AleksandraMij -> ['p', 1]
+IvaTok -> ['s', -1]
+MarijaKov -> ['p', 1]
+SaraNik -> ['p', 1]
+DarioPiu -> ['p', 1]
+
+2017-11-08 20:13:21
+
+Istok: 
+AleksandraMij -> ['s', 0]
+IvaTok -> ['s', -2]
+SaraNik -> ['s', -2]
+
+2017-11-08 20:17:21
+
+Istok: 
+AnaMarijaCer -> ['s', 1]
+IvaTok -> ['s', 0]
+DusankaKov -> ['s', 3]
+DarioPiu -> ['s', 2]
+
+2017-11-08 20:17:31
+
+Istok: 
+AleksandraMij -> ['s', 2]
+MarijaKov -> ['s', 1]
+DusankaKov -> ['p', 0]
+SaraNik -> ['s', -1]
+
+2017-11-08 20:20:52
+
+Istok: 
+AnaMarijaCer -> ['p', 1]
+MarijaKov -> ['s', 2]
+
+2017-11-08 20:22:28
+
+Istok: 
+AnaMarijaCer -> ['p', -1]
+MarijaKov -> ['p', 3]
+SaraNik -> ['p', 1]
+DarioPiu -> ['s', 2]
+
+2017-11-08 20:22:28
+
+Istok: 
+IvaTok -> ['p', 1]
+MarijaKov -> ['s', 2]
+
+2017-11-08 20:23:12
+
+Istok: 
+AleksandraMij -> ['p', -1]
+IvaTok -> ['p', -2]
+MarijaKov -> ['p', 0]
+DusankaKov -> ['p', 0]
+SaraNik -> ['p', -2]
+DarioPiu -> ['s', -2]
+
+2017-11-08 20:24:56
+
+Istok: 
+AleksandraMij -> ['s', 2]
+MarijaKov -> ['p', 3]
+DarioPiu -> ['s', 3]
+
+2017-11-08 20:26:47
+
+Istok: 
+AleksandraMij -> ['s', -1]
+IvaTok -> ['s', -2]
+MarijaKov -> ['s', -2]
+
+2017-11-08 20:32:13
+
+Istok: 
+AleksandraMij -> ['s', 1]
+AnaMarijaCer -> ['s', 1]
+IvaTok -> ['s', 2]
+
+2017-11-08 20:33:20
+
+Istok: 
+MarijaKov -> ['s', 2]
+SaraNik -> ['p', 1]
+
+2017-11-08 20:33:50
+
+Istok: 
+AleksandraMij -> ['p', 1]
+AnaMarijaCer -> ['s', 2]
+SaraNik -> ['p', 1]
+
+2017-11-08 20:39:55
+
+Istok: 
+AleksandraMij -> ['p', 0]
+IvaTok -> ['s', 3]
+MarijaKov -> ['p', 3]
+DusankaKov -> ['p', 2]
+SaraNik -> ['s', 1]
+
+2017-11-08 20:40:53
+
+Istok: 
+AleksandraMij -> ['s', 1]
+IvaTok -> ['s', 1]
+MarijaKov -> ['p', 2]
+
+2017-11-08 20:41:10
+
+Istok: 
+AleksandraMij -> ['s', 1]
+MarijaKov -> ['s', -1]
+
+2017-11-08 20:41:53
+
+Istok: 
+AleksandraMij -> ['p', -1]
+AnaMarijaCer -> ['p', -1]
+IvaTok -> ['p', -1]
+MarijaKov -> ['p', -2]
+DusankaKov -> ['p', 0]
+
+2017-11-08 20:42:28
+
+Istok: 
+AleksandraMij -> ['s', -1]
+AnaMarijaCer -> ['s', 0]
+IvaTok -> ['s', 1]
+MarijaKov -> ['s', 2]
+
+2017-11-08 20:44:23
+
+Istok: 
+AleksandraMij -> ['s', 1]
+AnaMarijaCer -> ['s', -1]
+IvaTok -> ['s', 0]
+MarijaKov -> ['kcg', -2]
+DusankaKov -> ['sda', 0]
+
+2017-11-08 20:49:31
+
+Istok: 
+AleksandraMij -> ['p', 1]
+IvaTok -> ['p', 2]
+MarijaKov -> ['s', 2]
+DusankaKov -> ['kcg', 3]
+SaraNik -> ['p', 2]
+
+2017-11-08 20:57:06
+
+Istok: 
+AleksandraMij -> ['s', 1]
+IvaTok -> ['sda', 1]
+MarijaKov -> ['s', 0]
+SaraNik -> ['s', 2]
+
+2017-12-08 02:02:26
+
+Istok: 
+DusankaKov -> ['s', 3]
+
+2017-12-08 02:02:52
+
+Istok: 
+BranislavSav -> ['p', 1]
+DusankaKov -> ['p', 2]
+
+2017-12-08 02:03:23
+
+Istok: 
+BranislavSav -> ['p', 3]
+
+2017-12-08 02:07:06
+
+Istok: 
+MilicaRak -> ['p', -3]
+BranislavSav -> ['p', -1]
+DusankaKov -> ['p', 0]
+
+2017-12-08 02:09:49
+
+Istok: 
+MilicaRak -> ['p', 3]
+
+2017-12-08 02:10:59
+
+Istok: 
+MilicaRak -> ['p', 1]
+
+2017-12-08 02:11:14
+
+Istok: 
+BranislavSav -> ['p', 3]
+
+2017-12-08 02:15:00
+
+Istok: 
+MilicaRak -> ['p', 2]
+BranislavSav -> ['p', 2.5]
+
+2017-12-08 02:17:46
+
+Istok: 
+DusankaKov -> ['p', 2]
+
+2017-12-08 02:19:30
+
+Istok: 
+MilicaRak -> ['p', 0]
+BranislavSav -> ['p', -1]
+DusankaKov -> ['p', 0]
+
+2017-12-08 02:21:00
+
+Istok: 
+BranislavSav -> ['p', 3]
+
+2017-12-08 02:21:25
+
+Istok: 
+BranislavSav -> ['s', 2]
+
+2017-12-08 02:21:43
+
+Istok: 
+MilicaRak -> ['p', 0]
+BranislavSav -> ['p', 0]
+DusankaKov -> ['p', 2]
+
+2017-12-08 02:24:53
+
+Istok: 
+MilicaRak -> ['p', 1]
+BranislavSav -> ['p', 0]
+DusankaKov -> ['p', 1]
+
+2017-12-08 02:25:53
+
+Istok: 
+MilicaRak -> ['p', 3]
+BranislavSav -> ['p', 3]
+DusankaKov -> ['p', 3]
+
+2017-12-08 02:26:05
+
+Istok: 
+BranislavSav -> ['p', 2]
+DusankaKov -> ['s', 3]
+
+2017-12-08 02:26:06
+
+Istok: 
+MilicaRak -> ['p', 0]
+
+2017-12-08 02:26:24
+
+Istok: 
+BranislavSav -> ['p', 1]
+DusankaKov -> ['p', 2]
+
+2017-12-08 02:29:00
+
+Istok: 
+MilicaRak -> ['p', -1]
+BranislavSav -> ['p', 1]
+DusankaKov -> ['p', 2]
