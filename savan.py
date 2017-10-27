@@ -6,11 +6,6 @@ from openpyxl import *
 import numpy as np
 import time, datetime
 
-def create_excel(directory, filename):
-	wb = Workbook()
-	ws = wb.active
-	wb.save(os.path.join(directory, filename))
-
 def convert_to_seconds(date):
 	return date.tm_sec + date.tm_min * 60 + date.tm_hour * 3600 + date.tm_mday * 24 * 3600
 
@@ -73,23 +68,107 @@ def timings(posmatraci, vremena):
 def compare_meteors(sheet):
 	meteors = {}
 	time_format = "%Y-%m-%d %H:%M:%S"
+
+	meteors.setdefault("Istok", {})
+	meteors.setdefault("Sever", {})
+	meteors.setdefault("Zapad", {})
+
 	r = 1
 
-	meteors.setdefault("Istok", [])
-	meteors.setdefault("Zapad", [])
-	meteors.setdefault("Sever", [])
-
 	for row in sheet.iter_rows(min_row = 1):
-		group = cell(sheet, r, 5)
-		t = str(cell(sheet, r, 1))[:-8] + str(cell(sheet, r, 3))
 
-		meteors.setdefault(group, []).append(t)
+		group = cell(sheet, r, 5)
+		observer = cell(sheet, r, 7)
+		mag = cell(sheet, r, 9)
+		met = cell(sheet, r, 10)
+
+		t = str(cell(sheet, r, 1))[:-8] + str(cell(sheet, r, 3))
+		t = time.strptime(t, time_format)
+
+		# group		time	 observer	 magnitude 		meteor
+		meteors.setdefault(group, {}).setdefault(t, {}).setdefault(observer, []).append(mag)
+		meteors.setdefault(group, {}).setdefault(t, {}).setdefault(observer, []).append(met)
 
 		r += 1
 
+	# ^^^ ovo valja ^^^
+
+	global compared_times
 	compared_times = {}
 
-	# to be compared : 
+	# to be compared :
+	# I -> Z -> S
+
+	# u kurac visess
+	for keyIstok, valueIstok in meteors["Istok"].items():
+		compared_times.setdefault(keyIstok, []).append(valueIstok)
+
+		for keyZapad, valueZapad in meteors["Zapad"].items():
+			if (abs(convert_to_seconds(keyIstok) - convert_to_seconds(keyZapad)) > 2):
+				compared_times.setdefault(keyZapad, []).append(valueZapad)
+
+			for keySever, valueSever in meteors["Sever"].items():
+				if ((abs(convert_to_seconds(keyIstok) - convert_to_seconds(keySever)) > 2) or (abs(convert_to_seconds(keySever) - convert_to_seconds(keyZapad)) > 2)):
+					compared_times.setdefault(keySever, []).append(valueSever)
+
+	return 0
+
+def store_in_excel(p, t):
+	wb = Workbook()
+	ws = wb.active
+
+	# stores observers
+	n = 2
+	for i in range(0, len(observers)):
+		ws.merge_cells(start_row = 1, start_column = n, end_row = 1, end_column = n + 2)
+		ws.cell(row = 1, column = n).value = observers[i]
+		n += 3
+
+	# stores meteor time stamps
+	time_format = "%Y-%m-%d %H:%M:%S"
+
+	n = 2
+
+	for keyTime, valueTime in compared_times.items():
+		ws.cell(row = n, column = 1).value = time.strftime(time_format, keyTime)
+
+		for i in range(0, len(valueTime)):
+			for k, v in valueTime[i].items():
+				position_column = observers.index(k) * 3 + 2
+				ws.cell(row = n, column = position_column).value = v[0]
+				ws.cell(row = n, column = position_column + 1).value = v[1]
+
+		n += 1
+
+	wb.save("u kurac vise.xlsx")
+
+	return 0
+
+def check_if_observed(p_ws, t_ws):
+	wb = load_workbook("/home/sarasdfg/Petnica/Kodovi/u kurac vise.xlsx")
+	ws = wb.active
+
+	time_format = "%Y-%m-%d %H:%M:%S"
+
+	for row in range(2, len(compared_times) + 2): 	 # iterates rows
+		t_of_meteor = time.strptime(ws.cell(row = row, column = 1).value, time_format)
+
+		for col in range(4, len(observers) * 3 + 2, 3):		# iterate columns
+
+			posmatrac = ws.cell(row = row - (row - 1), column = col - 2).value
+			les_temps = timings(p_ws, t_ws)
+
+			if posmatrac in les_temps:
+				for x in range(0, len(les_temps[posmatrac]) - 1, 2):
+					start = les_temps[posmatrac][x]
+					end = les_temps[posmatrac][x + 1]
+
+					if ((convert_to_seconds(start) < convert_to_seconds(t_of_meteor)) and ((convert_to_seconds(end) > convert_to_seconds(t_of_meteor)))):
+						ws.cell(row = row, column = col).value = "P"
+					elif (ws.cell(row = row, column = col).value != "P"):
+						ws.cell(row = row, column = col).value = "NP"
+
+	wb.save(date + ".xls")
 
 	return 0
 
@@ -97,11 +176,12 @@ posmatranja = load_workbook("/home/sarasdfg/Petnica/Kodovi/posmatranja.xlsx")
 vremena = load_workbook("/home/sarasdfg/Petnica/Kodovi/timings.xlsx")
 dates = ["8-9", "9-10", "10-11", "11-12", "14-15", "15-16", "16-17", "17-18"]
 
-date = dates[0]
+date = dates[1]
 p_ws = posmatranja[date]
 t_ws = vremena[date]
 
 observers = store_observers(p_ws)
-time_of_observers = timings(p_ws, t_ws)
 
 compare_meteors(p_ws)
+store_in_excel(p_ws, t_ws)
+check_if_observed(p_ws, t_ws)

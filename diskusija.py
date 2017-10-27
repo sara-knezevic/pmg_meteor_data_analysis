@@ -49,7 +49,7 @@ def storeInExcel(directory):
 							continue
 						else:
 							ws.append(row)
-							
+
 			wb.save(os.path.join(root, root[-8:] + ".xlsx"))
 
 def convertTime(directory):
