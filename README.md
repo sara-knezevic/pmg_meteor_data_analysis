@@ -1,3 +1,3 @@
 # kodovi-pmg
 
-Program written for a project in the Petnica Meteor Group. Its purpose is to extract observers for each night and track their time of observation, marking if they were observing during an occurance of a meteor or not, which info will be used for statistics, bla bla...
+Program written for a project in the Petnica Meteor Group for sorting visual observation data.

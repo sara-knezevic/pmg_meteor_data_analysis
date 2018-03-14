@@ -151,7 +151,7 @@ def store_in_excel(p, t):
 	return 0
 
 def check_if_observed(p_ws, t_ws):
-	wb = load_workbook("/home/sarasdfg/Petnica/Kodovi/storage.xlsx")
+	wb = load_workbook("/home/saras/Downloads/kodovi-pmg-master/storage.xlsx")
 	ws = wb.active
 
 	time_format = "%Y-%m-%d %H:%M:%S"
@@ -174,12 +174,12 @@ def check_if_observed(p_ws, t_ws):
 					elif (ws.cell(row = row, column = col).value != "P"):
 						ws.cell(row = row, column = col).value = "NP"
 
-	wb.save("/home/sarasdfg/Petnica/Kodovi/Finals/" + date + ".xls")
+	wb.save("/home/saras/Downloads/kodovi-pmg-master/Finals/" + date + ".xls")
 
 	return 0
 
-posmatranja = load_workbook("/home/sarasdfg/Petnica/Kodovi/posmatranja.xlsx")
-vremena = load_workbook("/home/sarasdfg/Petnica/Kodovi/timings.xlsx")
+posmatranja = load_workbook("/home/saras/Downloads/kodovi-pmg-master/posmatranja.xlsx")
+vremena = load_workbook("/home/saras/Downloads/kodovi-pmg-master/timings.xlsx")
 dates = ["8-9", "9-10", "10-11", "11-12", "14-15", "15-16", "16-17", "17-18"]
 
 for d in range(0, len(dates)):
